@@ -48,7 +48,7 @@ This project aims to comprehensively test the DMoney REST API, ensuring the corr
 ![screencapture-127-0-0-1-5500-Reports-report-html-2024-02-04-16_15_18](https://github.com/iamsafridi/dmoney-newman-report/assets/82276738/70809ab6-2517-4ce6-ad6d-e97ee6b8dc37)
 
 ## API Documentaion
-https://documenter.getpostman.com/view/19337807/2s9YyvCM87
+https://drive.google.com/file/d/1qQwihYNv8WgL3U_KUv9qa19f_W_wLS7O/view?usp=drive_link
 
 ## Test Cases
 https://docs.google.com/spreadsheets/d/1adgYWmQI8QCArCsLQvW3w0PZ6i6ELyaYS_BgvmUd00I/edit#gid=0
